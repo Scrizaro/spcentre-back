@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_course_courses",
+  "info": {
+    "displayName": "course"
+  },
+  "options": {},
+  "attributes": {
+    "smallDescription": {
+      "type": "string"
+    },
+    "largeDescription": {
+      "type": "text"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "isActive": {
+      "type": "boolean"
+    },
+    "course_name": {
+      "type": "string"
+    }
+  }
+}
