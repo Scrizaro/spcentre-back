@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_lesson_lessons",
+  "info": {
+    "displayName": "lesson"
+  },
+  "options": {},
+  "attributes": {
+    "lesson_link": {
+      "type": "string"
+    },
+    "lesson_name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "can_view": {
+      "type": "boolean"
+    },
+    "lesson_description": {
+      "type": "text"
+    }
+  }
+}
